@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Croberts4
+- 👀 I’m interested in motorcycles, gaming, and anything else fast enough to do something mildly dangerous in.
+- 🌱 I’m currently learning security +, CySA +, and all the other basic related to such.
+- 💞️ I’m looking to collaborate on network infrasture. Personal projects are currently working on the server for the kids persistent minecraft enviroment.
+- 📫 How to reach me: obake.cr@gmail.com if you must.
