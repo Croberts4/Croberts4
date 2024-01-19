@@ -3,8 +3,8 @@
 
 
      
-                           Welcome, I'm Cody,  
-                       A Cybersecurity Professional
+    Welcome, I'm Cody,  
+    A Cybersecurity Professional
 
     
 <p align="center">
@@ -18,7 +18,7 @@
   
 Thank you for visiting my GitHub profile! On this page you will find links to projects and home labs that I am currently working on.
 
-<br/>If you have any questions or feedback, please feel free to reach out via my <a href="www.linkedin.com/in/cody-roberts-30b60957">LinkedIn</a>. <br/> Have a good day
+<br/>If you have any questions or feedback, please feel free to reach out via my <a href="www.linkedin.com/in/cody-roberts-30b60957">LinkedIn</a>.
   
 </h2>
 
